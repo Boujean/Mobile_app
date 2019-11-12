@@ -1,0 +1,38 @@
+//Pour comprendre ce fichier, consultet d'abord le diagramme de classes.
+
+
+//Objets de type Mode:
+//Pour chacun des noms suivants, il faudra construire un objet de type Mode avec
+//les ensembles positionsCorde1 à 6 bien remplis selon le livre et leur vrai nom.
+//Ils sont donnés dans leur ordre d'apparition dans le livre.
+
+
+Modes majeurs :
+  modeIonien, modeDorien, modePhrygien, modeLydien, modeMixolydien, modeAeolien, modeLocrien
+
+Modes mineurs melodiques:
+  modeMineurMelodique, modeDorienb2, modeLydienAug5, modeLydienb7, modeMixolydienb6,
+  modeLocrienBecarre2, modeSuperlocrien
+
+Modes mineurs harmoniques:
+  modeLocrien6, modeIonien5, modeDorien4, modeSuperPhrygien, modeLydien2,
+  modeSuperlocrienDiminue
+
+Pentatoniques:
+  pentaMajeure, pentaRelativeMineure, pentaBlues, pentaMineure, pentaRelativeMajeure,
+  pentaMineureAlt3, pentaMajeureAltB2, pentaMineureVIIb, pentaBluesVIIb, pentaMineureIIIb,
+
+
+  //à faire
+
+
+
+
+//Objets de type TypeAccord:
+//Pour chacun, construire un objet Accord avec le bon nom et remplir les ensembles
+//modesJouables etc. avec les objets correspondants, selon les pieuvres données
+//dans le livre (p.100)
+
+  accordMajeur, accordM7, accordMineur, accordMoins7, accord7, accord7alt,
+  accordMoins7b5, accord7barre, accord7sus4, accordMoinsM7, accordM7diese11,
+  accordPlusM7
